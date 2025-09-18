@@ -1,2 +1,2 @@
 # PluginBox
-You can run JS plugins on the web page.
+PluginBox允许你在浏览器网页上允许js插件，只要你打开浏览器控制台，输入插件管理器代码即可在网页中使用
